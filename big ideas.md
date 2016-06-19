@@ -29,3 +29,29 @@ How are we differentiated?
 1. Comparison shoppers need to see something different. The top 3% deal, though I thought it was a bit awkwardly specific at first, seems to sell the point to any skeptic who may think "why should I believe you have top talent? Doesn't everyone?"
 2. Be first in search results
 3. Website could reinforce the idea that this is white glove option. Maybe a website that resembles a luxury car brand or the like
+
+# Search result relevance
+
+I was very pleased to see that we show up here: 
+![image](https://cloud.githubusercontent.com/assets/8278896/16174453/7677420e-3590-11e6-942b-f27b01e21baf.png)
+However, I think we can do better. What if we (again) had higher-funnel pages that attract someone with this search? Our result is really only going to speak to someone who is able to jump to "I do indeed want to hire an iOS developer." 
+
+I unfortunately didn't see Toptal at all in the results for "pay someone to build an app" even though I did get these ads:
+![image](https://cloud.githubusercontent.com/assets/8278896/16174469/f24e30d6-3590-11e6-902e-07c92f800517.png)
+
+We need to see if we can evaluate "what people are searching" to make sure that we aren't just covering our own insider terms for what people can do with us--we need to speak their language.
+
+# Site alignment
+
+There are still some things that I think are not customer-friendly on our site. 
+
+### Hire specific individual or not?
+
+1. I see Ken Whaley and love his skill set.
+2. I see this and click the button. I'm ready to hire Ken. ![image](https://cloud.githubusercontent.com/assets/8278896/16174477/46dae8f6-3591-11e6-881a-4af8e561cdd6.png)
+3. I get this awful generic page that has doesn't mention Ken at all. I'm no longer trusting that I'm going to get what I want. ![image](https://cloud.githubusercontent.com/assets/8278896/16174483/7e04d3c8-3591-11e6-9e78-43bfdbe59cce.png)
+
+### Go to home
+![image](https://cloud.githubusercontent.com/assets/8278896/16174493/b7cd90e0-3591-11e6-8d25-e9583af230f3.png)
+
+I continue to hate this home icon. I don't know of a way to get back to Toptal's homepage (assuming I was interested in designers as well, or maybe some specific thing on the homepage) other than manually deleting "/developers" from the url. I would understand if we made the logo itself go to home, and the word "developers" go to the developers page.
